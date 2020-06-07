@@ -2,8 +2,8 @@
   "name": "scss-masterclass",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/nomadcoders/scss-masterclass",
-  "author": "Nicolás Serrano Arévalo <itnico.las.me@gmail.com>",
+  "repository": "https://github.com/hyanghoon/front_end_04",
+  "author": "<khh_123@naver.com>",
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.4.5",
